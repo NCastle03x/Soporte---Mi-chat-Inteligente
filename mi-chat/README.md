@@ -32,5 +32,9 @@ Para ejecutar el proyecto de forma local, siga estos pasos:
 1. Instale las dependencias del proyecto:
    ```bash
    npm install
-2. npm run dev
-3. http://localhost:3000
+2. Iniciar el servidor de desarrollo:
+   ```bash
+   npm run dev
+3. Abra su navegador web y acceda a la dirección:
+   ```bash
+   http://localhost:3000
